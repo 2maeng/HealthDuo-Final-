@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/spring/biz/board/BoardDAO.java=UTF-8
+encoding//src/main/java/com/spring/biz/comments/CommentsDAO.java=UTF-8
+encoding//src/main/java/com/spring/biz/common/JDBCUtil.java=UTF-8
+encoding//src/main/java/com/spring/biz/prohibit/ProhibitDAO.java=UTF-8
+encoding//src/main/java/com/spring/biz/recommend/RecommendDAO.java=UTF-8
+encoding//src/main/java/com/spring/biz/reply/ReplyDAO.java=UTF-8
+encoding//src/main/java/com/spring/view/controller/LogController.java=UTF-8
+encoding//src/main/webapp/boardDetailPage.jsp=UTF-8
+encoding//src/main/webapp/updateProfilePage.jsp=UTF-8
+encoding/<project>=UTF-8
